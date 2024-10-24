@@ -16,19 +16,19 @@
       "precio": 2100
     },
     {
-      "id": "5",
       "marca": "Dell",
-      "precio": 3210
+      "precio": 2222,
+      "id": "5"
     },
     {
-      "id": "6",
-      "marca": "Microsoft",
-      "precio": 1234
-    },
-    {
-      "id": 7,
+      "id": "7",
       "marca": "Dell",
       "precio": 2341
+    },
+    {
+      "id": 8,
+      "marca": "Dell",
+      "precio": 1111
     }
   ]
 }
