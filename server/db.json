@@ -1,6 +1,34 @@
 {
-    "laptops": [
-        {"id": 1, "marca": "Microsoft", "precio": 1750},
-        {"id": 2, "marca": "Dell", "precio": 1250}       
-    ]
+  "laptops": [
+    {
+      "id": "1",
+      "marca": "Dell",
+      "precio": 1250
+    },
+    {
+      "marca": "Lenovo",
+      "precio": 1235,
+      "id": "2"
+    },
+    {
+      "id": "4",
+      "marca": "Microsoft",
+      "precio": 2100
+    },
+    {
+      "id": "5",
+      "marca": "Dell",
+      "precio": 3210
+    },
+    {
+      "id": "6",
+      "marca": "Microsoft",
+      "precio": 1234
+    },
+    {
+      "id": 7,
+      "marca": "Dell",
+      "precio": 2341
+    }
+  ]
 }
