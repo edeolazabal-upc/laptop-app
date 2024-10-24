@@ -1,0 +1,6 @@
+{
+    "laptops": [
+        {"id": 1, "marca": "Microsoft", "precio": 1750},
+        {"id": 2, "marca": "Dell", "precio": 1250}       
+    ]
+}
